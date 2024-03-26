@@ -1,1 +1,1 @@
-# learn-githu
+# learn-github
